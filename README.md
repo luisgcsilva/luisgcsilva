@@ -1,6 +1,7 @@
-##  Luís Silva
+### Hi, I'm Luís 👋
 
-**`Developer`**
+Software Developer<br />
+Studied Computer Science at ESTIG, IP Beja
 
 ---
 
