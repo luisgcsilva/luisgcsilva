@@ -1,6 +1,6 @@
 ### Hi, I'm Luís 👋
 
-Software Developer <br />
+👨‍💻 Software Developer <br />
 Studied Computer Science at ESTIG, IP Beja <br />
 
 ## 🌐 Socials:
